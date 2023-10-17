@@ -1,2 +1,0 @@
-# reactRepo
-school purposes
